@@ -33,8 +33,8 @@
 		0454B2C91F754FB5008D0764 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		0454B2CA1F754FB5008D0764 /* Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graph.swift; sourceTree = "<group>"; };
 		0454B2CB1F754FB6008D0764 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		0454B2D11F7553EE008D0764 /* SAGeometry.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = SAGeometry.podspec; sourceTree = "<group>"; };
 		046A25B61F7C0CEE00347FF6 /* SAGeometry.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SAGeometry.gif; sourceTree = "<group>"; };
+		046A25F31F7C889A00347FF6 /* SAGeometry.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = SAGeometry.podspec; path = ../SAGeometry.podspec; sourceTree = "<group>"; };
 		2A90392E472A374A05084ABA /* Pods_SAGeometry_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SAGeometry_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FAFA20853290044643EDF39 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* SAGeometry_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SAGeometry_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -138,7 +138,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				0454B2D11F7553EE008D0764 /* SAGeometry.podspec */,
+				046A25F31F7C889A00347FF6 /* SAGeometry.podspec */,
 				DB78B63247CD15FAC4980BA3 /* README.md */,
 				5FAFA20853290044643EDF39 /* LICENSE */,
 			);
